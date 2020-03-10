@@ -1,5 +1,5 @@
 # Cube Satellite EPS
-### Electrical Power Subsystem software implementation in Embedded C
+### Electrical Power Subsystem software implementation in Embedded C ATmega2560
 
 ## 1. Block Code ADC_INTERNAL 
 #### Initialization of internal ADC of microcontroller register and reading from channels. 
