@@ -1,5 +1,5 @@
-# Cube-Satellite-EPS
-Electrical Power Subsystem software implementation in Embedded C
+# Cube Satellite EPS
+### Electrical Power Subsystem software implementation in Embedded C
 
 ## 1. Block Code ADC_INTERNAL 
 #### Initialization of internal ADC of microcontroller register and reading from channels. 
